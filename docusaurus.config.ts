@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  projectName: "zaakgericht-werken-apis", // Usually your repo name.
 
   i18n: {
     defaultLocale: 'nl',
@@ -63,7 +63,7 @@ const config: Config = {
       navbar: {
         title: "My Site",
         logo: {
-          alt: "My Site Logo",
+          alt: "VNG logo",
           src: "img/logo.svg",
           srcDark: "img/logo_alt.svg",
         },
@@ -112,7 +112,7 @@ const config: Config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://x.com/VNGRealisatie",
               },
             ],
           },
