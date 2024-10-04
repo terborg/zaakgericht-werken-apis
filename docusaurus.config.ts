@@ -7,8 +7,8 @@ import type * as Plugin from "@docusaurus/types/src/plugin";
 import type * as OpenApiPlugin from "docusaurus-plugin-openapi-docs";
 
 const config: Config = {
-  title: "Zaakgericht werken API's",
-  tagline: "De complete referentie voor de Zaakgericht werken API-standaard",
+  title: "Zaakgericht-werken API's",
+  tagline: "De complete referentie voor de Zaakgericht-werken API-standaard",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
