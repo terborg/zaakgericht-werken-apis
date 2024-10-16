@@ -61,7 +61,7 @@ const config: Config = {
         },
       },
       navbar: {
-        title: "My Site",
+        title: "ZGW API's",
         logo: {
           alt: "VNG logo",
           src: "img/logo.svg",
