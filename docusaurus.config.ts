@@ -55,6 +55,9 @@ const config: Config = {
 
   themeConfig:
     {
+      colorMode: {
+          respectPrefersColorScheme: true,
+      },
       docs: {
         sidebar: {
           hideable: true,
